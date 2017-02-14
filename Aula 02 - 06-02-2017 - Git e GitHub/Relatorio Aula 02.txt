@@ -1,0 +1,28 @@
+VCS - Sistema de controle de Versao.
+
+----
+desenvolvimento de software para a web
+goo.gl/QEn0Xt
+----
+
+git config --global user.name "Joao"
+git config --global user.email "joaoantonios74@gmail.com"
+cd Desktop\lpc
+git init .
+git status
+git add arquivo.txt
+git add .
+git commit -m "Primeiro Commit"
+git log
+
+"git branch" Ver branchs
+"git checkout -b NOME" criar um novo branch
+"git checkout NOME" acessa um branch
+
+"git stash " salva o arquivo numa pilha de alteracoes 
+"git stash apply" restaura a ultima modificacao
+
+"md NOME" cria pasta
+"rd NOME" apaga pasta
+"copy NUL NOME" cria arquivo
+"del NOME" deleta arquivo

@@ -1,0 +1,21 @@
+Cliente-Serivdor
+
+Cliente solicita...
+
+Servidor retorna recurso.
+
+Através de um endereço URL,
+trafega num protocolo de Hypertext
+e trafega hytertexrt.
+
+
+- Páginas HTML
+- Protocolo HTPP
+- URL
+- URI
+- Tipos MIME
+
+
+
+touch "nome"
+
