@@ -1,0 +1,8 @@
+criar classe
+
+class Tarefa(object):
+	def __init__(self,titulo,data):
+		self.titulo=titulo
+		self.data=data
+	def __Str__(self):
+		return self.titulo
